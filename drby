@@ -1,0 +1,35 @@
+<html>
+<!DOCTYPE html>
+<html lang="cs">
+
+<head>
+  <meta name="viewport" 
+  content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8">
+  <title>topinkovac</title>
+  <meta name="author" content="topinkovac">
+</head>
+
+<body>
+  <h1><strong><u>Drby o učitelích</u></strong></h1>
+
+  <h2>Hamáčková Šárka</h2>
+  <ul>
+    <li>Chata - Luka pod Medníkem; č.ev. 437</li>
+    <li>Má dva syny, jeden vystudoval matematiku</li>
+  </ul>
+
+  <h2>Hrušková Dana</h2>
+  <ul>
+    <li>Chata - Pyšely, Na košíku; 91/3</li>
+  </ul>
+  <h2>Rak Michal</h2>
+  <ul>
+    <li>Chata - Strážné 156</li>
+  </ul>
+</body>
+
+</html>
+    
+    
+    
